@@ -1,22 +1,22 @@
 {
   "name": "ud-4",
   "version": "1.0.0",
-  "description": "Este archivo se escribe en formato markdown.",
+  "description": "Tarea de despliegue de aplicaciones web",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/RafaeldelRio/daweb.git"
+    "url": "git+https://github.com/Jusm8/Tarea4.1.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/RafaeldelRio/daweb/issues"
+    "url": "https://github.com/Jusm8/Tarea4.1.git/issues"
   },
-  "homepage": "https://github.com/RafaeldelRio/daweb#readme",
+  "homepage": "https://github.com/Jusm8/Tarea4.1/blob/master/readme.md",
   "dependencies": {
     "express": "^4.18.2"
   }
