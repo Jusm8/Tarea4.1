@@ -1,0 +1,27 @@
+{
+	"folders": [
+		{
+			"name": "Practica2",
+			"path": "../../practica2/Practica2"
+		},
+		{
+			"name": "ClientesVs",
+			"path": "../../../../xampp/htdocs/ClientesVs"
+		},
+		{
+			"name": "DiseñoVs",
+			"path": "../Diseño/DiseñoVs"
+		},
+		{
+			"name": "DESvs",
+			"path": "../../../../xampp/htdocs/DESvs"
+		},
+		{
+			"name": "UD 4",
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "DiseñoVs"
+	}
+}
